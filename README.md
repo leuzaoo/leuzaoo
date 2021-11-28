@@ -1,6 +1,6 @@
 - 👋 E aííí, sou o Léo Costa! 
-- 👀 Estudante de desenvolvimento Front-End. (por conta própria);
-- 🌱 Trabalaho com Inspetor de Qualidade;
+- 👀 Estudando desenvolvimento Front-End. (por conta própria);
+- 🌱 Trabalho como Inspetor de Qualidade;
 - 💞️ Após ter uma boa experiência, busco trabalhar na área que estudo hoje;
 
 <div align="left">
