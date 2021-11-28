@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @leuzaoo
-- 👀 I’m interested in learn and improve my knowledge about programming/Software Engineering.
-- 🌱 I’m currently learning about programming at my own risk. :D
-- 💞️ I’m looking to collaborate on (I'll probably get in the way if I try to collaborate with you).
-- 📫 How to reach me just make a date with me haha (I'm kidding, I'm hard).
+- 👋 E aííí, sou o Léo Costa! 
+- 👀 Estudante de desenvolvimento Front-End. (por conta própria);
+- 🌱 Trabalaho com Inspetor de Qualidade;
+- 💞️ Após ter uma boa experiência, busco trabalhar na área que estudo hoje;
 
-<!---
-leuzaoo/leuzaoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left">
+  <a href="https://github.com/leuzaoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leuzaoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leuzaoo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Leuzaoo-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="Leuzaoo-Pr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+  <img align="center" alt="Leuzaoo-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"">
+  <img align="center" alt="Leuzaoo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+   <img align="center" alt="Leuzaoo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">                                    </div>
+                                                                                                                                             
+##                                                                                                                                             
+                                                                                                                                               
+<div>
+  <a href="https://www.youtube.com/channel/UCen0-QmhrZ2gZtoCTSAdQSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/leuzaoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/TFxt7K5Q9D" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:leuzaoocontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-costa-26711a207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
