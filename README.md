@@ -1,7 +1,7 @@
-- 👋 E aííí, sou o Léo Costa! 
-- 👀 Estudando desenvolvimento Front-End. (por conta própria);
-- 🌱 Trabalho como Inspetor de Qualidade;
-- 💞️ Após ter uma boa experiência, busco trabalhar na área que estudo hoje;
+- 👋 whats up, i'm Léo Costa! 
+- 👀 Front-End development student;
+- 🌱 I don't work in the developer area yet. I'm a quality inspector;
+- 💞️ After having a good experience, I try to work in the field I study today;
 
 <div align="left">
   <a href="https://github.com/leuzaoo">
