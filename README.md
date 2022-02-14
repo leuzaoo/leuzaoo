@@ -1,6 +1,6 @@
 - 👋 whats up, i'm Léo Costa! 
 - 👀 Front-End development student;
-- 🌱 I don't work in the developer area yet. I'm a quality inspector;
+- 🌱 I don't work in the developer area yet.
 - 💞️ After having a good experience, I try to work in the field I study today;
 
 <div align="left">
