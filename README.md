@@ -1,5 +1,5 @@
 - 👋 whats up, i'm Léo Costa! 
-- 👀 Front-End development student;
+- 👀 Frontend Developer.
 
 <div align="left">
   <a href="https://github.com/leuzaoo">
