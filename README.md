@@ -1,5 +1,9 @@
-- 👋 whats up, i'm Léo Costa! 
-- 👀 Frontend Developer.
+- Me chamo Leonardo, tenho 23 anos e moro em Jundiaí. Desenvolvedor Frontend especializado no ecossistema Javascript, destacando-se o React e Typescript 
+- Estudando atualmente para me aperfeiçoar, busco oportunidades para aplicar meu conhecimento adquirido de forma que agregue em projetos que eu venha atuar.
+- Habilidades que se destacam são: HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, REACT, SASS e NODEJS. 
+- Idiomas: Inglês (intermediário/avançado) & Espanhol (básico/intermediário).
+
+- Experiências: Trabalhei como Inspetor de Qualidade na área automobilística e também como Vendedor em varejos.
 
 <div align="left">
   <a href="https://github.com/leuzaoo">
