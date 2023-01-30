@@ -2,7 +2,6 @@
 - Estudando atualmente para me aperfeiçoar, busco oportunidades para aplicar meu conhecimento adquirido de forma que agregue em projetos que eu venha atuar.
 - Habilidades que se destacam são: HTML5, CSS3, JAVASCRIPT, TYPESCRIPT, REACT, SASS e NODEJS. 
 - Idiomas: Inglês (intermediário/avançado) & Espanhol (básico/intermediário).
-- Experiências: Trabalhei como Inspetor de Qualidade na área automobilística e também como Vendedor em varejos.
 
 <br />
 
