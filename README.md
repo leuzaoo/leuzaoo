@@ -1,4 +1,4 @@
-- Tenho 24 anos, morador de Jundiaí-SP. Desenvolvedor Frontend especializado em JavaScript, destacando-se o Vue e Typescript;
+- Tenho 24 anos, morador de Jundiaí-SP. Desenvolvedor Frontend especializado em JavaScript, destacando-se o React, NextJS e Vue;
 - Estudando atualmente para me aperfeiçoar, busco oportunidades para aplicar meu conhecimento adquirido de forma que agregue em projetos que eu venha atuar;
 - Habilidades que se destacam são: HTML5, CSS3, SASS, JavaScript, TypeScript, Vue, Next.js e Node.js; 
 - Idiomas: Inglês (intermediário/avançado) & Espanhol (básico/intermediário).
