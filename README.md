@@ -1,30 +1,64 @@
-### Hello there! ✌🏼
+# Hey! I’m Leonardo Costa
 
-I'm Leonardo, a Fullstack Developer based in Brazil. I like to develop and bring my ideas to the real world. <br/>
-In addition to developing for the web, I also like to build the designs for my applications.
+Fullstack Developer from **Brazil**, turning ideas into **real products** — from **design** to **deployment**.  
+I enjoy building clean UIs, solid backends, and apps that feel great to use.
 
-The stack I use the most for development is: Typescript, Next.js, Tailwind, Supabase or MongoDB and Express.js at backend.
+---
 
-I'm currently working on an ERP system for a store.
+## What I’m working on
+🧾 **ERP System for a store** — features like authentication, roles/permissions, dashboards, and real-world business flows.
 
-I've got many personal and freelances projects, but my favorite project is the <a href="https://github.com/leuzaoo/finance-management" target="_blank">Finance Management</a>. I built this app for my trip to England, as I would be away for a few weeks. It started as a simple application, but it became my favorite for the amount of resources and time I dedicated to it.
+---
 
-As a freelancer, I've developed several web applications, such as landing pages, food delivery site and an ERP for a furniture store.
+## Tech I use the most
+- **TypeScript**
+- **Next.js**
+- **Tailwind CSS**
+- **Supabase** (Auth + RLS) / **MongoDB**
+- **Node.js + Express**
 
-If you want to see some more of my projects, you can access my <a href="https://devlcostaoliveira.vercel.app/" target="_blank">Online Portfolio Website<a/>.
+> I like modern stacks that ship fast and scale clean.
 
-I have more than 60 repositories, both private and public, and they are for personal projects as well as for customers.
+---
 
-### Fun Facts:
+## Highlight Project
+### Finance Management App
+I built it for my trip to **England** (initially “just a simple tracker”) — and it became my favorite project because I kept improving it with more features, better UX, and real-life usage.
 
-- I have three birds;
-- I have more than 6 thousand hours playing CSGO;
-- I like Harry Potter.
+---
 
-### Contact me:
+## Freelance experience
+I’ve developed multiple web applications such as:
+- Landing pages
+- Food delivery website
+- ERP system for a furniture store
 
-<a href="https://www.instagram.com/leuzaoo_/" target="_blank">Instagram</a>
-<br />
-<a href="https://www.linkedin.com/in/leonardo-costa/" target="_blank">LinkedIn</a>
-<br />
-<a href="https://www.youtube.com/@leuzaoo1" target="_blank">YouTube</a>
+---
+
+## Portfolio
+Want to see more projects?  
+<a href="https://devlcostaoliveira.vercel.app/">**Online Portfolio Website**<a/>
+
+---
+
+## Repositories
+I have **60+ repositories** (public and private) for:
+- Personal experiments and learning
+- Client projects
+- Products I’m actively evolving
+
+---
+
+## Fun facts
+- I have **three birds** 🐦🐦🐦  
+- **6,000+ hours** playing CS:GO 🎮  
+- Big fan of **Harry Potter** ⚡️🪄  
+
+---
+
+## Contact
+- Instagram: <a href="https://instagram.com/leuzaoo_">@leuzaoo_</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/leonardo-costa/">@leonardo-costa</a>
+- YouTube: <a href="https://www.youtube.com/@leuzaoo1">@leuzaoo1</a>
+
+---
