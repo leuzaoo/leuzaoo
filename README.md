@@ -6,7 +6,7 @@ I enjoy building clean UIs, solid backends, and apps that feel great to use.
 ---
 
 ## What I’m working on
-🧾 **ERP System for a store** — features like authentication, roles/permissions, dashboards, and real-world business flows.
+🧾 **Football Status Web App** — features like data fetch, show results, match history, real-time data.
 
 ---
 
@@ -24,6 +24,11 @@ I enjoy building clean UIs, solid backends, and apps that feel great to use.
 ## Highlight Project
 ### Finance Management App
 I built it for my trip to **England** (initially “just a simple tracker”) — and it became my favorite project because I kept improving it with more features, better UX, and real-life usage.
+
+---
+
+### ERP System for a store
+Features like authentication, roles/permissions, dashboards, and real-world business flows.
 
 ---
 
