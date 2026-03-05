@@ -1,69 +1,72 @@
-# Hey! I’m Leonardo Costa
+# Hey! I’m Leonardo Costa 👋
 
-Fullstack Developer from **Brazil**, turning ideas into **real products** — from **design** to **deployment**.  
-I enjoy building clean UIs, solid backends, and apps that feel great to use.
+Fullstack Developer from **Brazil** 🇧🇷 building **real products** end-to-end — from **UI/UX** to **APIs**, **database design**, and **deployment**.  
+I care a lot about **clean interfaces**, **maintainable code**, and **systems that scale without getting messy**.
 
----
+## What I’m building right now ⚽️
+### **Football Status** (Next.js + Supabase + Cloudflare)
+A real-time football app focused on performance, SEO, and cost-aware data fetching.
 
-## What I’m working on
-🧾 **Football Status Web App** — features like data fetch, show results, match history, real-time data.
+**Highlights**
+- Live matches + match history
+- Standings / stats / players powered by external APIs
+- **Cache-first** architecture (Cloudflare Worker + KV/cron/poller patterns)
+- Internationalization-friendly structure and strong indexing/SEO foundations
 
----
+## Featured projects ⭐️
+### 💸 Finance Management App
+Started as a “simple tracker” for my trip to **England** — turned into my favorite project as I kept iterating using it in real life.
 
-## Tech I use the most
+**Highlights**
+- Multi-wallet / transactions experience with a modern UI (glassmorphism-inspired)
+- Micro-interactions, responsive layout, accessible components
+- Currency/exchange-rate ideas (history charts, real data consumption)
+
+### 🏬 ERP System (role-based)
+An ERP-style app built around real business flows and permissions.
+
+**Highlights**
+- Authentication + roles (e.g. admin / seller / factory)
+- Dashboards and operational flows (orders/products/customers)
+- Strong data access control with **Supabase RLS/policies**
+
+## Tech I use the most 🧰
 - **TypeScript**
-- **Next.js**
+- **Next.js** (App Router / SSR / RSC when it makes sense)
 - **Tailwind CSS**
-- **Supabase** (Auth + RLS) / **MongoDB**
+- **Supabase** (Postgres, Auth, RLS) + **MongoDB**
 - **Node.js + Express**
+- **Cloudflare Workers / KV** (for edge caching, cron/pollers, presence)
 
-> I like modern stacks that ship fast and scale clean.
+> I like modern stacks that ship fast, stay readable, and scale clean.
 
----
+## How I like to work 🧩
+- Modular components and reusable sections
+- Clear naming, predictable patterns, and pragmatic best practices
+- MVP-first mindset with checklists + iterative improvements
 
-## Highlight Project
-### Finance Management App
-I built it for my trip to **England** (initially “just a simple tracker”) — and it became my favorite project because I kept improving it with more features, better UX, and real-life usage.
-
----
-
-### ERP System for a store
-Features like authentication, roles/permissions, dashboards, and real-world business flows.
-
----
-
-## Freelance experience
+## Freelance experience 🤝
 I’ve developed multiple web applications such as:
 - Landing pages
 - Food delivery website
 - ERP system for a furniture store
 
----
+## Portfolio 🌐
+Want to see more?
+**https://devlcostaoliveira.vercel.app/**
 
-## Portfolio
-Want to see more projects?  
-<a href="https://devlcostaoliveira.vercel.app/">**Online Portfolio Website**<a/>
-
----
-
-## Repositories
-I have **60+ repositories** (public and private) for:
+## Repositories 📦
+I keep **dozens of repositories** (public and private) for:
 - Personal experiments and learning
 - Client projects
 - Products I’m actively evolving
 
----
-
-## Fun facts
+## Fun facts ✨
 - I have **three birds** 🐦🐦🐦  
 - **6,000+ hours** playing CS:GO 🎮  
 - Big fan of **Harry Potter** ⚡️🪄  
 
----
-
-## Contact
-- Instagram: <a href="https://instagram.com/leuzaoo_">@leuzaoo_</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/leonardo-costa/">@leonardo-costa</a>
-- YouTube: <a href="https://www.youtube.com/@leuzaoo1">@leuzaoo1</a>
-
----
+## Contact 📫
+- Instagram: https://instagram.com/leuzaoo_
+- LinkedIn: https://www.linkedin.com/in/leonardo-costa/
+- YouTube: https://www.youtube.com/@leuzaoo1
