@@ -1,4 +1,4 @@
-# Hey! I’m Leonardo Costa 👋
+# Hey! I’m Leonardo Costa
 
 Fullstack Developer from **Brazil** 🇧🇷 building **real products** end-to-end — from **UI/UX** to **APIs**, **database design**, and **deployment**.  
 I care a lot about **clean interfaces**, **maintainable code**, and **systems that scale without getting messy**.
@@ -13,8 +13,8 @@ A real-time football app focused on performance, SEO, and cost-aware data fetchi
 - **Cache-first** architecture (Cloudflare Worker + KV/cron/poller patterns)
 - Internationalization-friendly structure and strong indexing/SEO foundations
 
-## Featured projects ⭐️
-### 💸 Finance Management App
+## Featured projects 
+### Finance Management App
 Started as a “simple tracker” for my trip to **England** — turned into my favorite project as I kept iterating using it in real life.
 
 **Highlights**
@@ -22,7 +22,7 @@ Started as a “simple tracker” for my trip to **England** — turned into my 
 - Micro-interactions, responsive layout, accessible components
 - Currency/exchange-rate ideas (history charts, real data consumption)
 
-### 🏬 ERP System (role-based)
+### ERP System (role-based)
 An ERP-style app built around real business flows and permissions.
 
 **Highlights**
@@ -30,7 +30,7 @@ An ERP-style app built around real business flows and permissions.
 - Dashboards and operational flows (orders/products/customers)
 - Strong data access control with **Supabase RLS/policies**
 
-## Tech I use the most 🧰
+## Tech I use the most
 - **TypeScript**
 - **Next.js** (App Router / SSR / RSC when it makes sense)
 - **Tailwind CSS**
@@ -40,29 +40,29 @@ An ERP-style app built around real business flows and permissions.
 
 > I like modern stacks that ship fast, stay readable, and scale clean.
 
-## How I like to work 🧩
+## How I like to work
 - Modular components and reusable sections
 - Clear naming, predictable patterns, and pragmatic best practices
 - MVP-first mindset with checklists + iterative improvements
 
-## Freelance experience 🤝
+## Freelance experience
 I’ve developed multiple web applications such as:
 - Landing pages
 - Food delivery website
 - ERP system for a furniture store
 
-## Portfolio 🌐
+## Portfolio
 Want to see more?
 **https://devlcostaoliveira.vercel.app/**
 
-## Repositories 📦
+## Repositories
 I keep **dozens of repositories** (public and private) for:
 - Personal experiments and learning
 - Client projects
 - Products I’m actively evolving
 
-## Fun facts ✨
-- I have **three birds** 🐦🐦🐦  
+## Fun facts
+- I have **three birds** 🐦🐦🐦
 - **6,000+ hours** playing CS:GO 🎮  
 - Big fan of **Harry Potter** ⚡️🪄  
 
