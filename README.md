@@ -1,72 +1,56 @@
-# Hey! I’m Leonardo Costa
+**Fullstack Developer | Next.js, TypeScript, Supabase, Cloudflare**
 
-Fullstack Developer from **Brazil** 🇧🇷 building **real products** end-to-end — from **UI/UX** to **APIs**, **database design**, and **deployment**.  
-I care a lot about **clean interfaces**, **maintainable code**, and **systems that scale without getting messy**.
+# Leonardo Costa
 
-## What I’m building right now ⚽️
-### **Football Status** (Next.js + Supabase + Cloudflare)
-A real-time football app focused on performance, SEO, and cost-aware data fetching.
+**Fullstack Developer** from Brazil 🇧🇷  
+Building scalable web products with **Next.js, TypeScript, Supabase, and Cloudflare**.
 
-**Highlights**
-- Live matches + match history
-- Standings / stats / players powered by external APIs
-- **Cache-first** architecture (Cloudflare Worker + KV/cron/poller patterns)
-- Internationalization-friendly structure and strong indexing/SEO foundations
+I work across the full product stack — from frontend architecture and user experience to APIs, database design, and deployment.  
+My focus is on creating applications that are clean to maintain, efficient to scale, and useful in real-world scenarios.
 
-## Featured projects 
+## Current project
+### Football Status
+A real-time football platform built with Next.js, Supabase, and Cloudflare.
+
+- Live matches, standings, stats, and match history
+- Cache-first architecture for performance and cost efficiency
+- SEO-focused pages and scalable data-fetching strategies
+- Reliable external API integrations
+
+## Selected projects
 ### Finance Management App
-Started as a “simple tracker” for my trip to **England** — turned into my favorite project as I kept iterating using it in real life.
+A personal finance application built from a real need and continuously improved as a product.
 
-**Highlights**
-- Multi-wallet / transactions experience with a modern UI (glassmorphism-inspired)
-- Micro-interactions, responsive layout, accessible components
-- Currency/exchange-rate ideas (history charts, real data consumption)
+- Multi-wallet and transaction management
+- Modern, responsive, and accessible UI
+- Exchange-rate charts and real data integrations
 
-### ERP System (role-based)
-An ERP-style app built around real business flows and permissions.
+### ERP System
+A business-oriented ERP designed around real operational flows and permissions.
 
-**Highlights**
-- Authentication + roles (e.g. admin / seller / factory)
-- Dashboards and operational flows (orders/products/customers)
-- Strong data access control with **Supabase RLS/policies**
+- Role-based access control
+- Orders, products, customers, and dashboards
+- Secure data rules with Supabase Auth and RLS policies
 
-## Tech I use the most
-- **TypeScript**
-- **Next.js** (App Router / SSR / RSC when it makes sense)
-- **Tailwind CSS**
-- **Supabase** (Postgres, Auth, RLS) + **MongoDB**
-- **Node.js + Express**
-- **Cloudflare Workers / KV** (for edge caching, cron/pollers, presence)
+## Main stack
+- TypeScript
+- Next.js
+- React
+- Tailwind CSS
+- Node.js
+- Express
+- Supabase
+- PostgreSQL
+- MongoDB
+- Cloudflare Workers / KV
 
-> I like modern stacks that ship fast, stay readable, and scale clean.
+## How I build
+- Clean and maintainable architecture
+- Reusable and modular components
+- Performance-oriented decisions
+- MVP-first mindset with continuous iteration
+- Product thinking combined with solid engineering
 
-## How I like to work
-- Modular components and reusable sections
-- Clear naming, predictable patterns, and pragmatic best practices
-- MVP-first mindset with checklists + iterative improvements
-
-## Freelance experience
-I’ve developed multiple web applications such as:
-- Landing pages
-- Food delivery website
-- ERP system for a furniture store
-
-## Portfolio
-Want to see more?
-**https://devlcostaoliveira.vercel.app/**
-
-## Repositories
-I keep **dozens of repositories** (public and private) for:
-- Personal experiments and learning
-- Client projects
-- Products I’m actively evolving
-
-## Fun facts
-- I have **three birds** 🐦🐦🐦
-- **6,000+ hours** playing CS:GO 🎮  
-- Big fan of **Harry Potter** ⚡️🪄  
-
-## Contact 📫
-- Instagram: https://instagram.com/leuzaoo_
-- LinkedIn: https://www.linkedin.com/in/leonardo-costa/
-- YouTube: https://www.youtube.com/@leuzaoo1
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/leonardo-costa/)
+- [YouTube](https://www.youtube.com/@leuzaoo1)
