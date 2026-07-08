@@ -1,4 +1,4 @@
-**Fullstack Developer | Next.js, TypeScript, Supabase, Cloudflare**
+**Fullstack Developer**
 
 # Leonardo Costa
 
